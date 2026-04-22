@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 # ════════════════════════════════════════════
 #  এখানে তোমার সব তথ্য দেওয়া আছে
 # ════════════════════════════════════════════
-BOT_TOKEN   = "8517198376:AAEgXxDt6qsKAHwadqhMHjhc-ss39vCbMa4"
+BOT_TOKEN   = "8517198376:AAEy6hjWJfuFtoi-BtAFXLV8yHFVtvm3z18"
 WORKER_URL  = "https://Televideoimage.hasanahmed.workers.dev"
 API_SECRET  = "tubestream-secret-2024"
 # ════════════════════════════════════════════
