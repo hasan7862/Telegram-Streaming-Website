@@ -2,7 +2,7 @@
 // Paste this in the Worker editor and Deploy. No extra settings needed.
 // Only edit ORIGIN below to your Render URL after the Render service is live.
 
-const ORIGIN = "https://YOUR-RENDER-APP.onrender.com"; // <-- change this once
+const ORIGIN = "https://telegram-streaming-website.onrender.com"; // <-- change this once
 
 export default {
   async fetch(request) {
